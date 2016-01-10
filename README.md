@@ -1,2 +1,2 @@
 # spider
-a distributed spider
+a distributed spider use akka
