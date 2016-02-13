@@ -12,6 +12,7 @@ dependencies {
     compile 'org.slf4j:slf4j-api:1.7.12'
     compile 'com.google.guava:guava:19.0'
     compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'com.typesafe.akka:akka-actor_2.11:2.4.2'
     testCompile 'junit:junit:4.12'
 }
 
