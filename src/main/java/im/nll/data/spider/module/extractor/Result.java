@@ -1,10 +1,9 @@
-package im.nll.data.spider;
+package im.nll.data.spider.module.extractor;
 
 /**
- * spider task.
  * @author <a href="mailto:fivesmallq@gmail.com">fivesmallq</a>
  * @version Revision: 1.0
- * @date 16/2/9 下午4:25
+ * @date 16/2/13 下午5:29
  */
-public class Task {
+public class Result {
 }
