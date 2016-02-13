@@ -1,4 +1,4 @@
-package im.nll.data.spider.crawler;
+package im.nll.data.spider.module.crawler;
 
 import com.google.common.base.Splitter;
 import im.nll.data.spider.utils.Logs;

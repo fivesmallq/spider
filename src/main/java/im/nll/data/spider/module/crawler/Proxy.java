@@ -1,4 +1,4 @@
-package im.nll.data.spider.crawler;
+package im.nll.data.spider.module.crawler;
 
 import org.apache.commons.lang3.StringUtils;
 

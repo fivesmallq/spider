@@ -1,4 +1,4 @@
-package im.nll.data.spider.crawler;
+package im.nll.data.spider.module.crawler;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
