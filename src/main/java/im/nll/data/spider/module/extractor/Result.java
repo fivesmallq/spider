@@ -6,4 +6,13 @@ package im.nll.data.spider.module.extractor;
  * @date 16/2/13 下午5:29
  */
 public class Result {
+    private boolean listable = false;
+
+    public boolean isListable() {
+        return listable;
+    }
+
+    public void setListable(boolean listable) {
+        this.listable = listable;
+    }
 }

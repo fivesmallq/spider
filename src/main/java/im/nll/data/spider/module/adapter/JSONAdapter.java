@@ -7,7 +7,7 @@ import im.nll.data.spider.module.extractor.Result;
  * @version Revision: 1.0
  * @date 16/2/13 下午5:31
  */
-public class FileAdapter implements Adapter {
+public class JSONAdapter implements Adapter {
     @Override
     public Object to(Result result) {
         //todo save result to file
